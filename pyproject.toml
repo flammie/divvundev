@@ -9,7 +9,7 @@ repository = "https://github.com/divvun/divvundev"
 license = "GPL-3.0"
 
 [tool.poetry.scripts]
-divvundev = "divvundev.cli:main"
+divvundev = "divvundev.divvundev:main"
 
 [build-system]
 requires = ["poetry-core"]
